@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    height: 10vh;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar {
+    width: 100%;
+}
+
+.navbar ul {
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
