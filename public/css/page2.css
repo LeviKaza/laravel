@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+}
+
+main {
+    height: 50vh;
+    color: yellow;
+    display: flex;
+    justify-content: end;
+    align-items: flex-end;
+    background-image: url(https://image.winudf.com/v2/image/Y29tLlBlZ2FzdXNXYWxscGFwZXJzLkZ1dHUxMzVfc2NyZWVuXzBfYmlwYjV2eWE/screen-0.jpg?fakeurl=1&type=.jpg);
+}

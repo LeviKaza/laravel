@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+}
+
+main {
+    height: 90vh;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://wallpapercave.com/wp/wp3271059.png);
+}
